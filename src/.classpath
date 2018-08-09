@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rodri/Documents/arc_smr-master/lib"/>
+	<classpathentry kind="lib" path="C:/Users/rodri/Documents/arc_smr-master/lib/annotations-java8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
